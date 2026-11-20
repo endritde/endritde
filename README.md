@@ -1,6 +1,6 @@
 # Hi, I'm Endrit 👋
 
-Founder of **Tracewell** – AI agents for the technical Mittelstand: building services, construction, industry and
+Founder of **Tracewell** – AI agents for technical mid-sized companies: building services, construction, industry and
 field service. We start where companies lose money every day without noticing: purchasing and goods receipt.
 
 My approach: start with a real business problem, build something that works, measure it against how it is done today,
