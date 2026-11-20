@@ -6,9 +6,10 @@ field service. We start where companies lose money every day without noticing: p
 My approach: start with a real business problem, build something that works, measure it against how it is done today,
 and be clear about where it doesn't work yet.
 
-## What I build
+## Selected public projects
 
-Prototypes for problems companies deal with every day – from the inbox and dispatch to customers and the monthly report.
+A few of the things I build, shared here as open prototypes. Most of my work for Tracewell and its clients stays
+private.
 
 | Projekt | Worum es geht | Kernergebnis |
 |---|---|---|
