@@ -8,8 +8,8 @@ and be clear about where it doesn't work yet.
 
 ## Selected public projects
 
-A few of the things I build, shared here as open prototypes. Most of my work for Tracewell and its clients stays
-private.
+A few of the things I build, shared here as open prototypes. Most of my work – for Tracewell and earlier freelance
+projects – stays private.
 
 | Projekt | Worum es geht | Kernergebnis |
 |---|---|---|
