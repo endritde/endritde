@@ -1,8 +1,10 @@
-# Hi, ich bin Endrit 👋
+# Hi, I'm Endrit 👋
 
-Student International Marketing (IU) und Gründer von **Tracewell**, wo ich KI-Lösungen für den technischen Mittelstand
-aufbaue. Mich interessiert die Schnittstelle von Business und Data: Ich nehme ein echtes Geschäftsproblem, baue eine
-Lösung, vergleiche sie mit einer einfachen Baseline und sage offen, wo sie nicht funktioniert.
+I study International Marketing (IU) and founded **Tracewell**, where I build AI solutions for technical small and
+mid-sized companies – starting with purchasing and goods receipt.
+
+I like problems where business and data meet: take a real business question, build something that actually works,
+measure it against a simple baseline, and say openly where it falls short. The projects below show how I work.
 
 ## Portfolio: Data Science & AI
 
