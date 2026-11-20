@@ -1,12 +1,14 @@
 # Hi, I'm Endrit 👋
 
-I study International Marketing (IU) and founded **Tracewell**, where I build AI solutions for technical small and
-mid-sized companies – starting with purchasing and goods receipt.
+Founder of **Tracewell** – AI agents for the technical Mittelstand: building services, construction, industry and
+field service. We start where companies lose money every day without noticing: purchasing and goods receipt.
 
-I like problems where business and data meet: take a real business question, build something that actually works,
-measure it against a simple baseline, and say openly where it falls short. The projects below show how I work.
+My approach: start with a real business problem, build something that works, measure it against how it is done today,
+and be clear about where it doesn't work yet.
 
-## Portfolio: Data Science & AI
+## What I build
+
+Prototypes for problems I see in technical companies every day – from the inbox to dispatch to the monthly report.
 
 | Projekt | Worum es geht | Kernergebnis |
 |---|---|---|
@@ -16,8 +18,7 @@ measure it against a simple baseline, and say openly where it falls short. The p
 | [**Trace Wissen**](https://github.com/endritde/trace-wissen) | RAG-Assistent, der nur aus technischen Handbüchern antwortet und jede Aussage belegt | richtige Stelle für 12 von 12 Fragen, 88 % korrekt laut menschlicher Prüfung |
 | [**Trace Dispo**](https://github.com/endritde/trace-dispo) | Tourenplanung für Servicetechniker mit Google OR-Tools inkl. Notfall-Neuplanung | 0 dringende Termine liegengelassen bei 2,8 statt 4,7–8,9 offenen Terminen pro Tag |
 
-**Werkzeuge:** Python · pandas · scikit-learn · statsmodels · OR-Tools · LLMs (lokal mit Ollama, Claude API) · RAG ·
+**Tools:** Python · pandas · scikit-learn · statsmodels · OR-Tools · LLMs (lokal mit Ollama, Claude API) · RAG ·
 FastAPI · Next.js · TypeScript
 
-Die Projekte habe ich mit Claude Code als Pair-Programmer entwickelt. Fragestellung, Testdesign und die Bewertung der
-Ergebnisse habe ich verantwortet.
+Built with Claude Code as a pair programmer. The questions, test design and judgement of the results are mine.
