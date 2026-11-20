@@ -8,7 +8,7 @@ and be clear about where it doesn't work yet.
 
 ## What I build
 
-Prototypes for problems I see in technical companies every day – from the inbox to dispatch to the monthly report.
+Prototypes for problems companies deal with every day – from the inbox and dispatch to customers and the monthly report.
 
 | Projekt | Worum es geht | Kernergebnis |
 |---|---|---|
